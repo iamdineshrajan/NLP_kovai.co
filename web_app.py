@@ -27,13 +27,13 @@ def main():
         categorize(news)
     result = categorize(news)
     if result == "Category number:1":
-        cat1 = Image.open('C:/Users/DELL/NLP/Category1.png')
+        cat1 = Image.open('Category1.png')
         st.image(cat1)
     elif result == "Category number:2":
-        cat2 = Image.open('C:/Users/DELL/NLP/Category2.png')
+        cat2 = Image.open('Category2.png')
         st.image(cat2)
     elif result == "Category number:3":
-        cat3 = Image.open('C:/Users/DELL/NLP/Category3.png')
+        cat3 = Image.open('Category3.png')
         st.image(cat3)
     st.success(result)
 
