@@ -8,3 +8,8 @@
 2.	Time span
     a.	26/12/2018 to 30/07/2020
 3.  Of records - 1554
+
+# Deployment 
+Using Streamlit the web page is created and then it is deployed in HEROKU 
+You can access the app using the given link below
+https://stock-news-app.herokuapp.com/
