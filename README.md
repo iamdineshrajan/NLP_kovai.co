@@ -7,4 +7,4 @@
     c.	Published On - contains date in which the article is published
 2.	Time span
     a.	26/12/2018 to 30/07/2020
-3.	# Of records - 1554
+3.  Of records - 1554
