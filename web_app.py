@@ -3,8 +3,8 @@ from preprocessing import text_preprocessing
 from gensim import corpora,models
 import streamlit as st
 from PIL import Image
-dictionary_model = pickle.load(open('C:/Users/DELL/NLP/dictionary.pkl','rb'))
-loaded_model = pickle.load(open('C:/Users/DELL/NLP/model.pkl','rb'))
+dictionary_model = pickle.load(open('dictionary.pkl','rb'))
+loaded_model = pickle.load(open('model.pkl','rb'))
 
 def categorize(text):
     var = ''
